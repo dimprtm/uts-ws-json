@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "nama": "Maria",
+        "umur": "2",
+        "warna": "Megan Lampik",
+        "trah": "Siputra"
+    },
+    {
+        "id": "2",
+        "nama": "Razor",
+        "umur": "1",
+        "warna": "Hitam",
+        "trah": "-"
+    },
+    {
+        "id": "3",
+        "nama": "Lorem",
+        "umur": "4",
+        "warna": "Megan Tritis",
+        "trah": "Kenwood"
+    },
+    {
+        "id": "4",
+        "nama": "Ipsum",
+        "umur": "4",
+        "warna": "Tritis Lampik",
+        "trah": "Kenwood"
+    }
+]
